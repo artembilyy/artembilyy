@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**artembilyy/artembilyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Junior iOS Developer
+2. Education Mentor at [SkyLab](https://www.linkedin.com/school/skylab-school/)<br>
+3. Learning all about: `Apple`, `iOS`, `MacOS`, `Swift`<br>
+4. Reach me:
+- [Linkedin](https://www.linkedin.com/in/artem-bilyi-8b9854249/)<br>  
+- [Telegram](https://t.me/bilyyartem)<br>  
+- [Instagram](https://www.instagram.com/bilyyartem/)<br>  
+5. Fun fact: I'm hude fan of Game of Thrones<br>
+![](https://media.giphy.com/media/zQOmyYc8TXzSBfrTFb/giphy.gif)
