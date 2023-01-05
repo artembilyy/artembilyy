@@ -9,4 +9,6 @@
 - [Telegram](https://t.me/bilyyartem)<br>  
 - [Instagram](https://www.instagram.com/bilyyartem/)<br>  
 5. Fun fact: I'm hude fan of Game of Thrones<br>
+<!--
 ![](https://media.giphy.com/media/zQOmyYc8TXzSBfrTFb/giphy.gif)
+<-
