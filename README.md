@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-- Junior iOS Developer
+- iOS Developer
 - Education Mentor at [SkyLab](https://www.linkedin.com/school/skylab-school/)<br>
 - Learning all about: `Apple`, `iOS`, `MacOS`, `Swift`, `Ruby`<br>
 - Reach me: <ul> <li>
