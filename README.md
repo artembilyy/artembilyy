@@ -2,7 +2,6 @@
 ### Hello there 👋
 
 - iOS Developer
-- Learning all about: `Apple`, `iOS`, `MacOS`, `Swift`<br>
 - Reach me: <ul> <li>
 [Linkedin](https://www.linkedin.com/in/artem-bilyi-8b9854249/)<br><li>
 [Telegram](https://t.me/bilyyartem)<br><li>
